@@ -1,0 +1,58 @@
+html, body{
+  scroll-behavior:smooth;
+}
+.navbar{
+  background-color:#BE3144;
+  padding:0 2rem;
+}
+.navbar-brand{
+    font-size: 2.2rem;
+}
+.nav-list a {
+    display: block;
+    font-size: 2.2rem;
+}
+.nav-list a:hover {
+background:#3e4aa5;
+ 
+}
+
+#about{
+  height:500px;
+  background-color:#252528;
+  color:#ffffff; 
+}
+.about{
+  margin-top:50px
+}
+.card{
+  margin:0 20px;
+}
+.card img{
+  width:100%;
+  height:auto;
+}
+
+#work{
+  background:#3e4aa5;
+}
+.project-section-header{
+  max-width:620px;
+  border-bottom:2px solid #fff;
+  margin:0 auto;
+  color:#fff;
+}
+.btn1{
+  width:100%;
+  margin: 20px auto;
+}
+.flex-item{
+  font-size:22px;
+  padding:5px 20px;
+}
+.flex-item .fa-icon{
+  padding-right:10px;
+}
+#contact{
+  border-bottom:3px solid #BE3144
+}
